@@ -7,7 +7,7 @@
 			include 'Head.php';
 		?>
 		<fieldset>
-		<h1>Welcome to sPharmacy</h1>
+		<h1>Welcome to Dev chat</h1>
 		</fieldset>
 	<br>
 	<?php 
